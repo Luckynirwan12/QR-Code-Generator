@@ -1,5 +1,5 @@
 # QR-Code-Generator
-## 📄 Project: GitHub Profile QR Code Generator
+## 📄 Project: QR Code Generator
 This Python script generates a QR code for a given GitHub profile link using the `pyqrcode` module.
 
 🔧 What It Does:
